@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{1A90EB41-4168-419B-85F4-B28608476776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wedding.GiftMicroservice", "Wedding.GiftMicroservice\Wedding.GiftMicroservice.csproj", "{BFC50AD5-6C76-47E3-910C-97430DB809C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC50AD5-6C76-47E3-910C-97430DB809C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC50AD5-6C76-47E3-910C-97430DB809C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC50AD5-6C76-47E3-910C-97430DB809C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC50AD5-6C76-47E3-910C-97430DB809C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BFC50AD5-6C76-47E3-910C-97430DB809C1} = {1A90EB41-4168-419B-85F4-B28608476776}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B4B8CB-C590-41B0-BAC9-C0BF58ED61E3}
+	EndGlobalSection
+EndGlobal
